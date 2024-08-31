@@ -1,2 +1,5 @@
 .venv/
 datasets/
+emails/
+correos_ham/
+correos_spam/
